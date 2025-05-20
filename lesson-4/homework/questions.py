@@ -6,6 +6,6 @@
 # 2. for loop works until iterable object will have no next object, while lopp works until condition would be False
 
 # 3
-# for i in range(10):
-#     for j in range(i, 10):
-#         print(i, j)
+for i in range(10):
+    for j in range(i, 10):
+        print(i, j)
